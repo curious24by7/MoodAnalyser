@@ -8,6 +8,10 @@ namespace MoodAnalyser2
 {
     public class MoodAnalyserclass
     {
+        static void Main(string[] args)
+        {
+
+        }
         private string message;
         public MoodAnalyserclass(string message)
         {
